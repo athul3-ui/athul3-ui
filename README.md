@@ -1,64 +1,37 @@
-# Hey, I'm Athul 👋
+<br clear="both">
 
-I'm an **Application Security & DevSecOps Engineer** with 7+ years of engineering experience — 3+ years dedicated to AppSec and DevSecOps at a fintech industry.
+<h1 data-importer="text" align="center">Hey 👋What's Up ?</h1>
 
-My work sits at the intersection of security and software delivery. I build automated security gates, embed SAST/DAST/SCA into CI/CD pipelines, and work directly with development teams to make secure coding feel like a natural part of how they ship — not a blocker at the end.
+###
 
----
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="60" alt="groovy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="60" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+</div>
 
-## What I work with
+###
 
-**Security Testing**
-`Fortify` `WebInspect` `Burp Suite` `OWASP ZAP` `BlackDuck` `Snyk` `Trivy` `SonarQube` `Audit Workbench`
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-**DevSecOps & CI/CD**
-`GitHub Actions` `Jenkins` `GitLab CI/CD` `Docker` `Ansible` `HashiCorp Vault`
-
-**AppSec Practices**
-`SAST` `DAST` `SCA` `Threat Modelling` `Penetration Testing` `Secure Code Review` `IaC Security`
-
-**Frameworks & Standards**
-`OWASP Top 10` `MITRE ATT&CK` `STRIDE` `PASTA` `NIST CSF` `ISO 27001` `PCI DSS`
-
-**Scripting**
-`Python` `Bash` `PowerShell`
-
----
-
-## Projects
-
-### 🔍 [jenkins-Stage-logs](https://github.com/athul3-ui/Jenkins-Stage-logs)
-Pulls Fortify SAST stage durations from Jenkins pipelines via REST API and exports a formatted Excel report — multi-sheet breakdown, colour-coded rows, and a doughnut chart showing scan duration distribution. Built to replace manual job-by-job checking across 50+ pipelines. Works for any Jenkins stage, not just Fortify.
-
-### 🛡️ [fortify-Scan-Stage](https://github.com/athul3-ui/Fortify-Scan-Stage)
-A Jenkins pipeline stage that runs a full Fortify SAST scan (clean → translate → scan → upload to SSC) and breaks the pipeline if Critical or High severity findings are detected. No clean scan, no deploy. Drop it into any existing Jenkinsfile.
-
-### 🔒 [Gitlab-Fortify-integration](https://github.com/athul3-ui/Gitlab-Fortify-integration)
-A GitLab CI template that runs Fortify SAST and handles SSC app/version creation automatically — no manual SSC setup needed. Mirrors your Git branch structure in SSC (one app per repo, one version per branch). Includes a GitHub Actions equivalent for teams not on GitLab.
-
----
-
-## A bit of background
-
-As a DevSecOps Professional, I led the Shift-Left security initiative across multiple application teams — integrating automated security gates into GitHub Actions and Jenkins pipelines, running threat modelling sessions using STRIDE and MITRE ATT&CK, conducting manual penetration testing and secure code reviews, and managing secrets across 100+ microservices via HashiCorp Vault. I also validated iOS and Android mobile application shielding controls before each production release.
-
-Before AppSec, I spent four years as a Project Engineer on a mission-critical signal visualisation system for underwater defence applications. That environment — classified, high-stakes, zero tolerance for undocumented changes — built habits around rigorous documentation and security-first thinking that I carry into everything I do now.
-
-I hold the **Certified DevSecOps Professional (CDP)** certification from Practical DevSecOps and am currently pursuing the **AWS Certified Security Specialist**.
-
----
-
-## Certifications
-
-- 🎓 Certified DevSecOps Professional (CDP) — Practical DevSecOps
-- 🔄 AWS Certified Security Specialist — In Progress
-
----
-
-## Get in touch
-
-- 💼 [LinkedIn](https://linkedin.com/in/athulshibu)
-
----
-
-*Open to Senior Application Security and DevSecOps Engineer roles — preferably in Kerala or remote-friendly.*
+###
